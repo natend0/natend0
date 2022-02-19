@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natend0
 - 👀 I’m interested in Cloud Security
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on AWS Security
+- 💞️ I’m looking to collaborate on AWS Security, Python, and Powershell
 
 
 <!---
